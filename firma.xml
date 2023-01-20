@@ -1,0 +1,14 @@
+<Firma>
+    <Buchhaltung>
+        <Lehmann></Lehmann>
+    </Buchhaltung>
+    <Producktion>
+        <Breitner></Breitner>
+        <Paul></Paul>
+        <Degen></Degen>
+    </Producktion>
+    <Vertrieb>
+        <Schulz></Schulz>
+        <Meier></Meier>
+    </Vertrieb>
+</Firma>
