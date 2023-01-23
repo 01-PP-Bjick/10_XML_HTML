@@ -1,14 +1,14 @@
-<Firma>
-    <Buchhaltung>
-        <Lehmann></Lehmann>
-    </Buchhaltung>
-    <Producktion>
-        <Breitner></Breitner>
-        <Paul></Paul>
-        <Degen></Degen>
-    </Producktion>
-    <Vertrieb>
-        <Schulz></Schulz>
-        <Meier></Meier>
-    </Vertrieb>
-</Firma>
+<firma>
+     <abteilung name="Buchhaltung">
+            <ma name="Lehmann"></ma>
+         </abteilung>
+         <abteilung name="Produktion">
+            <ma name="Breitner"></ma>
+            <ma name="Paul"></ma>
+            <ma name="Degen"></ma>
+         </abteilung>
+         <abteilung name="Vertrieb">
+            <ma name="Schulz"></ma>
+            <ma name="Meier"></ma>
+         </abteilung>
+</firma>
